@@ -29,7 +29,12 @@ How to Run
 2. Run as Java application
 3. Select MergeHeroApp
 
+Blog
+-----
+[Dynamsoft’s First Open Source Software: MergeHero][3]
+
 
 [1]:http://www.dynamsoft.com/products/mergehero.aspx
 [2]:http://www.dynamsoft.com/Products/version-control-source-control-sourceanywhere.aspx
+[3]:http://www.codepool.biz/open-source/dynamsofts-first-open-source-software-mergehero.html
 
